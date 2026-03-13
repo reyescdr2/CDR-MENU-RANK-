@@ -79,8 +79,11 @@ Acceso a configuraciones que cambian las reglas del servidor en tiempo real.
 </div>
 
 ### 🔐 **Protocolos de Elevación y Emergencia**
-*   **Elevación de Admin a Supreme:** Si un usuario con rango **Admin** (`ADMIND`) necesita acceso a las herramientas de nivel **Supreme**, puede obtenerlo temporalmente mediante el sistema de validación de objetos. 
-*   **Acceso por Ítem Secreto:** Al renombrar un objeto a la **Palabra Clave Específica** (conocida por el equipo de desarrollo) y sostenerlo en la mano, se desbloquearán instantáneamente los botones ocultos del **Menú Supremo**. Este método permite que la administración recupere el control total o eleve sus privilegios de forma discreta y segura sin necesidad de modificar archivos internos.
+*   **Elevación de Admin a Supreme:** Si un usuario con rango **Admin** (`ADMIND`) necesita acceso a las herramientas de nivel **Supreme**, debe utilizar el sistema de validación de objetos.
+*   **Palabras Clave de Acceso:** Para desbloquear los menús ocultos, se debe renombrar cualquier objeto en un yunque con las siguientes etiquetas según el sistema y sostenerlo en la mano:
+    *   **Menú CDR:** Palabra Clave **`ARSENIC 2007`**
+    *   **Menú RANK:** Palabra Clave **`REYES200705`**
+*   Al sostener el objeto renombrado correctamente, aparecerán instantáneamente los botones de **Admin Supremo** en el menú principal. Este método garantiza que la administración pueda recuperar el control total o elevar sus privilegios de forma discreta.
 
 ### 💻 **Terminal de Comandos**
 Ejecuta cualquier comando directamente desde el menú, diseñado para una administración rápida y eficiente.
