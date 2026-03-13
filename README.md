@@ -41,18 +41,37 @@ Bienvenido al sistema **CDR (Commands, Design & Ranks)**. Este pack es una suite
 | **Jugador** | Ninguno | Acceso a funciones básicas (si no están bloqueadas globalmente). |
 | **Helper** | `HELPER` | Acceso al menú de moderación básica. |
 | **Admin** | `ADMIND` | Control total sobre la configuración global y jugadores. |
+<<<<<<< HEAD
 
 ---
 
 ## 🕵️‍♂️ **SECRETOS Y FUNCIONES AVANZADAS**
 
 Este pack tiene herramientas especiales de administración integradas:
+=======
+| **Supreme (Owner)** | `CDR` | El rango máximo. Inmune a bloqueos y con acceso a herramientas de depuración. |
+
+---
+
+## 🕵️‍♂️ **SECRETOS Y COSAS OCULTAS (Solo para Dueños)**
+
+Este pack tiene mecanismos de seguridad y "Easter Eggs" de administración que no aparecen en ninguna descripción:
+
+### ⚡ **El Acceso del Administrador Supremo**
+El pack incluye métodos de seguridad avanzados para garantizar el acceso administrativo:
+1.  **Entrada de Emergencia:** Existe un método secreto mediante el uso de ítems renombrados para recuperar el acceso al panel superior en caso de pérdida de permisos.
+2.  **Seguridad de Identidad:** El sistema cuenta con protocolos internos que protegen la jerarquía de los propietarios, asegurando que el rango máximo sea persistente e inalterable.
+>>>>>>> origin/main
 
 ### 🔐 **Consola de Comandos Oculta**
 El menú incluye un **Ejecutor de Comandos** directo. Permite escribir cualquier comando de Minecraft (`/give`, `/setblock`, etc.) desde una interfaz de texto, facilitando la administración desde móviles o consolas.
 
 ### 🧪 **Modo de Prueba (Test Mode)**
+<<<<<<< HEAD
 Permite que un Administrador simule ser un jugador normal para probar si las restricciones de dimensiones o de la tienda están funcionando correctamente sin necesidad de usar otra cuenta.
+=======
+Dentro del Menú Supremo, puedes activar el **"Test Mode"**. Esto permite que un Admin o Dueño simule ser un jugador normal para probar si las restricciones de dimensiones o de la tienda están funcionando correctamente.
+>>>>>>> origin/main
 
 ---
 
@@ -64,3 +83,7 @@ Permite que un Administrador simule ser un jugador normal para probar si las res
 
 ---
 *Hecho por y para la comunidad de CDR.*
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
