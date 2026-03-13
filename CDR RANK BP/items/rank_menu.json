@@ -1,0 +1,28 @@
+{
+    "format_version": "1.21.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "cdr:rank_menu",
+            "menu_category": {
+                "category": "equipment"
+            }
+        },
+        "components": {
+            "minecraft:icon": "book_2",
+            "minecraft:display_name": {
+                "value": "§9[§bCDR MENU RANK§9]"
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:allow_off_hand": true,
+            "minecraft:hand_equipped": false,
+            "minecraft:use_animation": "none",
+            "minecraft:use_modifiers": {
+                "use_duration": 0
+            },
+            "minecraft:cooldown": {
+                "category": "cdr_rank",
+                "duration": 0.5
+            }
+        }
+    }
+}

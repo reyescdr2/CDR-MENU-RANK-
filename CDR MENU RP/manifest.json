@@ -1,0 +1,35 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§7Recursos para el Menu CDR.",
+        "name": "§l§cCDR Menu RP",
+        "uuid": "8283842c-293e-48a6-8980-08f97207bb47",
+        "pack_scope": "world",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "CDR Resource Module",
+            "type": "resources",
+            "uuid": "5c73187c-d6b9-4796-9876-78abcd123456",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [],
+    "metadata": {
+        "product_type": "addon"
+    }
+}

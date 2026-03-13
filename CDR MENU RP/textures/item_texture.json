@@ -1,0 +1,33 @@
+{
+    "resource_pack_name": "cdr_menu",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "book": {
+            "textures": "textures/items/book"
+        },
+        "emerald": {
+            "textures": "textures/items/emerald"
+        },
+        "book_2": {
+            "textures": "textures/items/book_2"
+        },
+        "icon_create_rank": {
+            "textures": "textures/ui/icon_create_rank"
+        },
+        "icon_delete_rank": {
+            "textures": "textures/ui/icon_delete_rank"
+        },
+        "icon_nickname": {
+            "textures": "textures/ui/icon_nickname"
+        },
+        "icon_colors": {
+            "textures": "textures/ui/icon_colors"
+        },
+        "icon_rank_global": {
+            "textures": "textures/ui/icon_rank_global"
+        },
+        "icon_languages": {
+            "textures": "textures/ui/icon_languages"
+        }
+    }
+}

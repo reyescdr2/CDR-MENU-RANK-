@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20.50",
+    "minecraft:item": {
+        "description": {
+            "identifier": "cdr:menu",
+            "menu_category": {
+                "category": "equipment"
+            }
+        },
+        "components": {
+            "minecraft:icon": "book",
+            "minecraft:max_stack_size": 1,
+            "minecraft:display_name": {
+                "value": "§9[§bCDR MENU§9]"
+            },
+            "minecraft:on_use": {
+                "on_use": {
+                    "event": "cdr:on_use",
+                    "target": "self"
+                }
+            },
+            "minecraft:keep_on_death": {}
+        }
+    }
+}

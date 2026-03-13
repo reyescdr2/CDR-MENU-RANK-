@@ -1,0 +1,61 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§o§7Ejecuta comandos sin perder logros.",
+        "name": "§l§cCDR Menu BP",
+        "uuid": "6fc93150-711e-491c-8ad2-6f68c3534d0b",
+        "version": [
+            1,
+            0,
+            5
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "e357989a-072d-4f36-b6ad-df0d9f829562",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "script",
+            "uuid": "41398852-c0e0-4966-8800-4786d425c282",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "entry": "scripts/main.js",
+            "language": "javascript"
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "8283842c-293e-48a6-8980-08f97207bb47",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.16.0"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "1.3.0"
+        }
+    ],
+    "metadata": {
+        "product_type": "addon"
+    }
+}
