@@ -7,10 +7,9 @@
 ## �️ **Vistazo General**
 
 <p align="center">
-  <img src="https://cdn.russellxz.click/f76a4c5c.jpg" width="900" alt="Banner del Proyecto" />
+  <img src="https://files.catbox.moe/645ek8.png" width="900" alt="Banner del Proyecto" />
 </p>
-
-  <p><i>Sistema integral de administración, economía y rangos.</i></p>
+ <p><i>Sistema integral de administración, economía y rangos.</i></p>
 </div>
 
 ---
