@@ -7,7 +7,7 @@
 ## �️ **Vistazo General**
 
 <p align="center">
-  <img src="https://files.catbox.moe/645ek8.png" width="900" alt="Banner del Proyecto" />
+  <img src="" width="900" alt="Banner del Proyecto" />
 </p>
  <p><i>Sistema integral de administración, economía y rangos.</i></p>
 </div>
@@ -23,7 +23,7 @@ El proyecto se divide en tres pilares fundamentales que trabajan en perfecta sin
 3.  **CDR Menu RP (Resources):** La cara visual. Contiene todos los iconos premium, texturas personalizadas y traducciones.
 
 <div align="center">
-  <img src="[URL_IMAGEN_ICONOS_PACKS](https://files.catbox.moe/645ek8.png)" alt="Pack Icons" width="600">
+  <img src="https://imgur.com/a/Bpx5mYc" alt="Pack Icons" width="600">
 </div>
 
 ---
