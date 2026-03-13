@@ -41,37 +41,30 @@ Bienvenido al sistema **CDR (Commands, Design & Ranks)**. Este pack es una suite
 | **Jugador** | Ninguno | Acceso a funciones básicas (si no están bloqueadas globalmente). |
 | **Helper** | `HELPER` | Acceso al menú de moderación básica. |
 | **Admin** | `ADMIND` | Control total sobre la configuración global y jugadores. |
-<<<<<<< HEAD
+| **Supreme (Global)** | `CDR` | Control absoluto sobre el ecosistema CDR, bypass total y configuración avanzada. |
 
 ---
 
 ## 🕵️‍♂️ **SECRETOS Y FUNCIONES AVANZADAS**
 
-Este pack tiene herramientas especiales de administración integradas:
-=======
-| **Supreme (Owner)** | `CDR` | El rango máximo. Inmune a bloqueos y con acceso a herramientas de depuración. |
+Este pack incluye herramientas de alto nivel para el control total:
 
----
+### ⚡ **El Menú de Administrador Supremo**
+Existe un nivel de acceso superior al de Admin estándar que desbloquea:
+*   Gestión avanzada de rangos (incluyendo la asignación de permisos Supreme).
+*   Control de visibilidad y orden de menús.
+*   Editor de estadísticas en vivo para cualquier jugador.
+*   Configuración de precios de economía global.
 
-## 🕵️‍♂️ **SECRETOS Y COSAS OCULTAS (Solo para Dueños)**
+### 🔐 **Acceso de Emergencia (Secret Item)**
+En caso de pérdida de permisos o necesidad de acceso rápido, el sistema cuenta con un método secreto:
+*   Al renombrar un objeto a una **Palabra Clave Específica** y sostenerlo, se desbloquearán botones ocultos en el menú principal que permiten recuperar el control total. Este método es vital para mantener la jerarquía administrativa en cualquier situación.
 
-Este pack tiene mecanismos de seguridad y "Easter Eggs" de administración que no aparecen en ninguna descripción:
-
-### ⚡ **El Acceso del Administrador Supremo**
-El pack incluye métodos de seguridad avanzados para garantizar el acceso administrativo:
-1.  **Entrada de Emergencia:** Existe un método secreto mediante el uso de ítems renombrados para recuperar el acceso al panel superior en caso de pérdida de permisos.
-2.  **Seguridad de Identidad:** El sistema cuenta con protocolos internos que protegen la jerarquía de los propietarios, asegurando que el rango máximo sea persistente e inalterable.
->>>>>>> origin/main
-
-### 🔐 **Consola de Comandos Oculta**
-El menú incluye un **Ejecutor de Comandos** directo. Permite escribir cualquier comando de Minecraft (`/give`, `/setblock`, etc.) desde una interfaz de texto, facilitando la administración desde móviles o consolas.
+### � **Consola de Comandos Directa**
+El menú incluye un **Ejecutor de Comandos** que permite enviar órdenes a la consola de Minecraft directamente desde la interfaz, facilitando tareas complejas sin necesidad de abrir el chat.
 
 ### 🧪 **Modo de Prueba (Test Mode)**
-<<<<<<< HEAD
-Permite que un Administrador simule ser un jugador normal para probar si las restricciones de dimensiones o de la tienda están funcionando correctamente sin necesidad de usar otra cuenta.
-=======
-Dentro del Menú Supremo, puedes activar el **"Test Mode"**. Esto permite que un Admin o Dueño simule ser un jugador normal para probar si las restricciones de dimensiones o de la tienda están funcionando correctamente.
->>>>>>> origin/main
+Permite que un Administrador Supremo simule ser un jugador normal para verificar restricciones de misiones, economía o dimensiones en tiempo real.
 
 ---
 
@@ -83,7 +76,3 @@ Dentro del Menú Supremo, puedes activar el **"Test Mode"**. Esto permite que un
 
 ---
 *Hecho por y para la comunidad de CDR.*
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
