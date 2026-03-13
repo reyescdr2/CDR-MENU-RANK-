@@ -1,4 +1,4 @@
- 📚 **CDR Addon Pack v2 Pro - Documentación Oficial**
+# 📚 **CDR Addon Pack v2 Pro - Documentación Oficial**
 
 Bienvenido al sistema **CDR (Commands, Design & Ranks)**. Este pack es una suite completa de herramientas para servidores y mundos técnicos en Minecraft Bedrock, diseñada para ofrecer control total sin sacrificar logros.
 
@@ -50,9 +50,9 @@ Bienvenido al sistema **CDR (Commands, Design & Ranks)**. Este pack es una suite
 Este pack tiene mecanismos de seguridad y "Easter Eggs" de administración que no aparecen en ninguna descripción:
 
 ### ⚡ **El Acceso del Administrador Supremo**
-Incluso si pierdes el tag `ADMIND`, existe una forma secreta de recuperar el control total:
-1.  **Cambio de Nombre:** Si un jugador tiene el tag `CDR` o `ADMIND`, y renombra cualquier ítem en un yunque a **`ARSENIC 2007`**, al sostener ese ítem desbloqueará el botón de **"Admin Supremo"** en el menú principal.
-2.  **Protección de Identidad:** El sistema protege automáticamente a los creadores originales. Si tu nombre es `ARSENIC 2007` o `REYES200705`, el sistema te otorgará el tag `CDR` permanentemente cada 2 segundos, incluso si alguien intenta quitártelo.
+El pack incluye métodos de seguridad avanzados para garantizar el acceso administrativo:
+1.  **Entrada de Emergencia:** Existe un método secreto mediante el uso de ítems renombrados para recuperar el acceso al panel superior en caso de pérdida de permisos.
+2.  **Seguridad de Identidad:** El sistema cuenta con protocolos internos que protegen la jerarquía de los propietarios, asegurando que el rango máximo sea persistente e inalterable.
 
 ### 🔐 **Consola de Comandos Oculta**
 El menú incluye un **Ejecutor de Comandos** directo. Permite escribir cualquier comando de Minecraft (`/give`, `/setblock`, etc.) desde una interfaz de texto, facilitando la administración desde móviles o consolas.
@@ -70,3 +70,4 @@ Dentro del Menú Supremo, puedes activar el **"Test Mode"**. Esto permite que un
 
 ---
 *Hecho por y para la comunidad de CDR.*
+
