@@ -6,5 +6,5 @@
 
 
 <p align="center">
-  <img src="https://cdn.russellxz.click/9a5a030e.jpg" width="900" alt="Banner del Proyecto" />
+  <img src="https://cdn.russellxz.click/9a5a030e.jpg" width="600" alt="Banner del Proyecto" />
 </p>
