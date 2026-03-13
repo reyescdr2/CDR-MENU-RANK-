@@ -22,7 +22,7 @@ El proyecto se divide en tres pilares fundamentales que trabajan en perfecta sin
 3.  **CDR Menu RP (Resources):** La cara visual. Contiene todos los iconos premium, texturas personalizadas y traducciones.
 
 <div align="center">
-  <img src="URL_IMAGEN_ICONOS_PACKS" alt="Pack Icons" width="600">
+  <img src="[URL_IMAGEN_ICONOS_PACKS](https://files.catbox.moe/645ek8.png)" alt="Pack Icons" width="600">
 </div>
 
 ---
