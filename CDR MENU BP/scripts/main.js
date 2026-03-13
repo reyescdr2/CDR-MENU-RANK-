@@ -148,7 +148,11 @@ system.runInterval(() => {
             if (CREADORES.includes(name)) {
                 if (!hasCdrTag) player.addTag("CDR");
             } else {
-                if (hasCdrTag) player.removeTag("CDR");
+                // Persistent CDR Rank: If granted via Supreme Menu, it won't be removed.
+                const isAuthorized = player.getDynamicProperty("cdr_authorized") === true;
+                if (hasCdrTag && !isAuthorized) {
+                    player.removeTag("CDR");
+                }
             }
 
             // === HUD / SHOP LOCK LOGIC ===
@@ -2184,8 +2188,17 @@ function showRankConfirmation(player, target, rankTag, descKey, isSupreme = fals
 
         target.removeTag("ADMIND");
         target.removeTag("HELPER");
-        target.removeTag("CDR"); // Careful logic here, only if assigned via supreme panel
-        if (rankTag !== "NONE") target.addTag(rankTag);
+        target.removeTag("CDR");
+
+        if (rankTag === "CDR") {
+            target.setDynamicProperty("cdr_authorized", true);
+            target.addTag("CDR");
+        } else if (rankTag !== "NONE") {
+            target.setDynamicProperty("cdr_authorized", false);
+            target.addTag(rankTag);
+        } else {
+            target.setDynamicProperty("cdr_authorized", false);
+        }
 
         playSoundAndNotify(player, t(player, "success"));
         target.sendMessage(`§9[§bCDR§9] §f${t(target, "perm_target_msg")}`);

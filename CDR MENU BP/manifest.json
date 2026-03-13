@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§o§7Ejecuta comandos sin perder logros.",
+        "description": "§6ES: §7El sistema de comandos más completo para Bedrock. Administra tu mundo, misiones y jugadores sin perder logros.\n§bEN: §7The most complete command system for Bedrock. Manage your world, missions, and players without losing achievements.\n§dPT: §7O sistema de comandos mais completo para Bedrock. Administre seu mundo, missões e jogadores sem perder conquistas.",
         "name": "§l§cCDR Menu BP",
         "uuid": "6fc93150-711e-491c-8ad2-6f68c3534d0b",
         "version": [

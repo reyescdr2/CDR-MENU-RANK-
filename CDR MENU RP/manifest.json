@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§7Recursos para el Menu CDR.",
+        "description": "§6ES: §7Texturas, iconos y elementos visuales para el menú de administración y sistema de rangos.\n§bEN: §7Textures, icons, and visual elements for the administration menu and rank system.\n§dPT: §7Texturas, ícones e elementos visuais para o menu de administração e sistema de ranks.",
         "name": "§l§cCDR Menu RP",
         "uuid": "8283842c-293e-48a6-8980-08f97207bb47",
         "pack_scope": "world",
