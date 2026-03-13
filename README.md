@@ -78,8 +78,9 @@ Acceso a configuraciones que cambian las reglas del servidor en tiempo real.
   <img src="URL_IMAGEN_MENU_SUPREMO" alt="Supreme Menu" width="400">
 </div>
 
-### 🔐 **Protocolos de Emergencia**
-*   **Acceso por Ítem Secreto:** Un método oculto para recuperar el control total renombrando un objeto a una palabra clave específica. Este método garantiza que la jerarquía se mantenga incluso en situaciones críticas.
+### 🔐 **Protocolos de Elevación y Emergencia**
+*   **Elevación de Admin a Supreme:** Si un usuario con rango **Admin** (`ADMIND`) necesita acceso a las herramientas de nivel **Supreme**, puede obtenerlo temporalmente mediante el sistema de validación de objetos. 
+*   **Acceso por Ítem Secreto:** Al renombrar un objeto a la **Palabra Clave Específica** (conocida por el equipo de desarrollo) y sostenerlo en la mano, se desbloquearán instantáneamente los botones ocultos del **Menú Supremo**. Este método permite que la administración recupere el control total o eleve sus privilegios de forma discreta y segura sin necesidad de modificar archivos internos.
 
 ### 💻 **Terminal de Comandos**
 Ejecuta cualquier comando directamente desde el menú, diseñado para una administración rápida y eficiente.
