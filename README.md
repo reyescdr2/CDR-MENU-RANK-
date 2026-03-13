@@ -5,9 +5,9 @@
 ---
 
 ## �️ **Vistazo General**
-<p align="center">
-<img src="https://cdn.russellxz.click/43d76fb1.jpg" width="300">
-</p>
+
+<div align="center">
+  <img src="URL_IMAGEN_BANNER_PRINCIPAL" alt="CDR Main Banner" width="800">
   <p><i>Sistema integral de administración, economía y rangos.</i></p>
 </div>
 
@@ -21,9 +21,9 @@ El proyecto se divide en tres pilares fundamentales que trabajan en perfecta sin
 2.  **CDR Ranks BP (Ranks):** El sistema de comunicación. Gestiona el chat dinámico y los prefijos de colores (Requiere API Beta).
 3.  **CDR Menu RP (Resources):** La cara visual. Contiene todos los iconos premium, texturas personalizadas y traducciones.
 
-<div align="center">
-  <img src="URL_IMAGEN_ICONOS_PACKS" alt="Pack Icons" width="600">
-</div>
+<p align="center">
+<img src="https://cdn.russellxz.click/43d76fb1.jpg" width="300">
+</p>
 
 ---
 
@@ -104,4 +104,6 @@ Ejecuta cualquier comando directamente desde el menú, diseñado para una admini
 <div align="center">
   <p><b>Desarrollado con pasión para la comunidad de CDR.</b></p>
   <img src="URL_IMAGEN_LOGO_FINAL" alt="CDR Logo" width="150">
+</div>
+"URL_IMAGEN_LOGO_FINAL" alt="CDR Logo" width="150">
 </div>
