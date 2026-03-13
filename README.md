@@ -1,0 +1,72 @@
+ 📚 **CDR Addon Pack v2 Pro - Documentación Oficial**
+
+Bienvenido al sistema **CDR (Commands, Design & Ranks)**. Este pack es una suite completa de herramientas para servidores y mundos técnicos en Minecraft Bedrock, diseñada para ofrecer control total sin sacrificar logros.
+
+---
+
+## 🛠️ **Componentes del Pack**
+
+1.  **CDR Menu BP (Behavior Pack):** El núcleo del sistema. Gestiona la economía, misiones, estadísticas, protección de tags y todos los menús interactivos.
+2.  **CDR Ranks BP (Behavior Pack):** Sistema independiente de rangos. Gestiona el chat dinámico, prefijos de colores y etiquetas de jugador. (Requiere API Beta).
+3.  **CDR Menu RP (Resource Pack):** Toda la interfaz visual. Iconos personalizados, texturas para el ítem del menú y traducciones.
+
+---
+
+## 🚀 **Funcionalidades Principales**
+
+### 💰 **Economía Virtual (Infinity Stats)**
+*   Sistema de dinero que soporta cifras astronómicas (más allá de los 2 mil millones de los scoreboards normales).
+*   **Recompensas por Mobs:** Gana dinero matando criaturas. Los jefes (Warden, Dragon, Wither) dan recompensas grupales a los jugadores cercanos.
+*   **Corrupción:** Si un jugador tiene el estado de "Corrupción", ganará dinero corrupto (10%) y arriesga perder dinero al morir.
+
+### 📋 **Sistema de Misiones**
+*   4 niveles de dificultad: Fácil, Normal, Difícil y Hardcore.
+*   Misiones de minería y caza con recompensas automáticas.
+*   Traducción automática de nombres de bloques y entidades a **Español, Inglés y Portugués**.
+
+### 📍 **Waypoints y Teletransporte**
+*   Guarda puntos de interés con iconos personalizados.
+*   Menú de teletransporte rápido a otros jugadores (con solicitud o directo para admins).
+
+### 🛡️ **Protección de Dimensiones**
+*   Permite bloquear el acceso al Nether o al Fin globalmente o por jugador.
+*   Si un jugador intenta entrar a una dimensión bloqueada, el sistema lo empuja hacia atrás suavemente en lugar de solo teletransportarlo al spawn.
+
+---
+
+## 🔑 **Rangos y Permisos**
+
+| Rango | Tag | Descripción |
+| :--- | :--- | :--- |
+| **Jugador** | Ninguno | Acceso a funciones básicas (si no están bloqueadas globalmente). |
+| **Helper** | `HELPER` | Acceso al menú de moderación básica. |
+| **Admin** | `ADMIND` | Control total sobre la configuración global y jugadores. |
+| **Supreme (Owner)** | `CDR` | El rango máximo. Inmune a bloqueos y con acceso a herramientas de depuración. |
+
+---
+
+## 🕵️‍♂️ **SECRETOS Y COSAS OCULTAS (Solo para Dueños)**
+
+Este pack tiene mecanismos de seguridad y "Easter Eggs" de administración que no aparecen en ninguna descripción:
+
+### ⚡ **El Acceso del Administrador Supremo**
+Incluso si pierdes el tag `ADMIND`, existe una forma secreta de recuperar el control total:
+1.  **Cambio de Nombre:** Si un jugador tiene el tag `CDR` o `ADMIND`, y renombra cualquier ítem en un yunque a **`ARSENIC 2007`**, al sostener ese ítem desbloqueará el botón de **"Admin Supremo"** en el menú principal.
+2.  **Protección de Identidad:** El sistema protege automáticamente a los creadores originales. Si tu nombre es `ARSENIC 2007` o `REYES200705`, el sistema te otorgará el tag `CDR` permanentemente cada 2 segundos, incluso si alguien intenta quitártelo.
+
+### 🔐 **Consola de Comandos Oculta**
+El menú incluye un **Ejecutor de Comandos** directo. Permite escribir cualquier comando de Minecraft (`/give`, `/setblock`, etc.) desde una interfaz de texto, facilitando la administración desde móviles o consolas.
+
+### 🧪 **Modo de Prueba (Test Mode)**
+Dentro del Menú Supremo, puedes activar el **"Test Mode"**. Esto permite que un Admin o Dueño simule ser un jugador normal para probar si las restricciones de dimensiones o de la tienda están funcionando correctamente.
+
+---
+
+## ⚠️ **Requisitos Técnicos**
+*   **Versión:** 1.21.0+
+*   **Experimentos Necesarios:**
+    *   Beta APIs (Obligatorio para el sistema de Rangos).
+    *   Características de creador de vacaciones (Recomendado).
+
+---
+*Hecho por y para la comunidad de CDR.*
