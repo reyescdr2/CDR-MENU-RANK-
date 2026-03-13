@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://cdn.russellxz.click/9a5a030e.jpg" width="128" alt="Banner del Proyecto" />
+  <img src="https://cdn.russellxz.click/9a5a030e.jpg" width="128" alt="CDR" />
 </p>
 
 <p align="center">
