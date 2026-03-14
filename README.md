@@ -45,7 +45,7 @@ Misiones de caza y minería equilibradas para mantener a los jugadores activos, 
 *   **Niveles:** Fácil, Normal, Difícil y Hardcore.
 
 <div align="center">
-  <img src="https://cdn.russellxz.click/b2b661bc.png" alt="Missions Menu" width="400">
+  <img src="https://cdn.russellxz.click/facb3ac3.png" alt="Missions Menu" width="400">
 </div>
 
 ### 🛡️ **Seguridad y Dimensiones**
