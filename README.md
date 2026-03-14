@@ -105,7 +105,7 @@ Ejecuta cualquier comando directamente desde el menú, diseñado para una admini
 
 ---
 <div align="center">
-  <p><b>Desarrollado con pasión para la comunidad de CDR.</b></p>
+  <p><b>Desarrollado por la comunidad de CDR.</b></p>
  <div align="center">
   <img src="https://cdn.russellxz.click/9c6d6373.png" alt="CDR LOGO" width="400">
 </div>
