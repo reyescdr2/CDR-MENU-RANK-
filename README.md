@@ -92,7 +92,7 @@ Acceso a configuraciones que cambian las reglas del servidor en tiempo real.
 Ejecuta cualquier comando directamente desde el menú, diseñado para una administración rápida y eficiente.
 
 <div align="center">
-  <img src="URL_IMAGEN_CONSOLA" alt="Command Console" width="400">
+  <img src="https://cdn.russellxz.click/23967baa.png" alt="Command Console" width="400">
 </div>
 
 ---
