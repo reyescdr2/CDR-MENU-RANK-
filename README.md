@@ -65,6 +65,9 @@ Control absoluto sobre el acceso al **Nether** y al **The End**.
 | **Supreme** | `CDR` | Autoridad máxima del sistema. |
 
 ---
+## Download
+
+[Download Optimizer](https://github.com/reyescdr2/CDR-MENU-RANK-/releases/download/CDR/CDR.MENU.mcaddon)
 
 ## 🕵️‍♂️ **HERRAMIENTAS ESTRATÉGICAS (Admin Supremo)**
 
