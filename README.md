@@ -67,7 +67,7 @@ Control absoluto sobre el acceso al **Nether** y al **The End**.
 ---
 ## Download
 
-[Download Optimizer](https://github.com/reyescdr2/CDR-MENU-RANK-/releases/download/CDR/CDR.MENU.mcaddon)
+[CDR ADDON](https://github.com/reyescdr2/CDR-MENU-RANK-/releases/download/CDR/CDR.MENU.mcaddon)
 
 ## 🕵️‍♂️ **HERRAMIENTAS ESTRATÉGICAS (Admin Supremo)**
 
