@@ -76,9 +76,10 @@ Acceso a configuraciones que cambian las reglas del servidor en tiempo real.
 *   **Editor de Stats:** Modificación directa de saldos y estadísticas de cualquier jugador.
 *   **Precios Globales:** Control total sobre el mercado y multiplicadores de recompensas.
 
-<div align="center">
-  <img src="URL_IMAGEN_MENU_SUPREMO" alt="Supreme Menu" width="400">
-</div>
+<p>
+<img src="https://cdn.russellxz.click/79884e8e.png" width="400" align="legft">
+  <img src="https://cdn.russellxz.click/b2efbf5f.png" width="400" alingn="right">
+</p>
 
 ### 🔐 **Protocolos de Elevación y Emergencia**
 *   **Elevación de Admin a Supreme:** Si un usuario con rango **Admin** (`ADMIND`) necesita acceso a las herramientas de nivel **Supreme**, debe utilizar el sistema de validación de objetos.
