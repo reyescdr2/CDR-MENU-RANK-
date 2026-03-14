@@ -78,7 +78,7 @@ Acceso a configuraciones que cambian las reglas del servidor en tiempo real.
 
 <p>
 <img src="https://cdn.russellxz.click/79884e8e.png" width="400" align="legft">
-  <img src="https://cdn.russellxz.click/b2efbf5f.png" width="400" alingn="right">
+<img src="https://cdn.russellxz.click/b2efbf5f.png" width="400" alingn="right">
 </p>
 
 ### 🔐 **Protocolos de Elevación y Emergencia**
