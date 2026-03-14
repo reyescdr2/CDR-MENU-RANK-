@@ -8,9 +8,7 @@
 
 <p align="center">
 <img src="https://cdn.russellxz.click/802094be.png" width="900">
-</p>
-<p align="center">
-<img src="https://cdn.russellxz.click/10969884.png" width="900">
+  <img src="https://cdn.russellxz.click/10969884.png" width="900">
 </p>
 <p><i>Sistema integral de administración, economía y rangos.</i></p>
 </div>
