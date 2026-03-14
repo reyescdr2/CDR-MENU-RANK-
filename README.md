@@ -37,7 +37,7 @@ Nuestro motor de estadísticas virtual permite manejar cifras que superan el lí
 *   **Sistema de Corrupción:** Un estado alterado que afecta la economía y añade riesgo al juego.
 
 <div align="center">
-  <img src="URL_IMAGEN_MENU_ECONOMIA" alt="Economy Menu" width="400">
+  <img src="https://cdn.russellxz.click/b2b661bc.png" alt="Economy Menu" width="400">
 </div>
 
 ### 📋 **Sistema de Misiones Trilingüe**
