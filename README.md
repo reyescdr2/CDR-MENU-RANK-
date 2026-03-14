@@ -6,9 +6,10 @@
 
 ## �️ **Vistazo General**
 
-<div align="center">
-  <img src="URL_IMAGEN_BANNER_PRINCIPAL" alt="CDR Main Banner" width="800">
-  <p><i>Sistema integral de administración, economía y rangos.</i></p>
+<p align="center">
+<img src="https://cdn.russellxz.click/3fa948aa.png" width="300">
+</p>
+  <p><i>Sistema integral de administración, economía.</i></p>
 </div>
 
 ---
